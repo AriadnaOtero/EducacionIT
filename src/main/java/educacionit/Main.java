@@ -12,6 +12,8 @@ import educacionit.entities.Profesor;
 import educacionit.entities.Tecnologia;
 
 public class Main {
+	
+	//La conexión tiene que abrirse y cerrarse una sola vez
 
 	public static void main(String[] args) {
 		
