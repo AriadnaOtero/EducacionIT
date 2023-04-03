@@ -1,2 +1,2 @@
 # EducacionIT
-Proyecto Java Grupo1
+Este es un repositorio donde vamos a hacer algunas pruebas con Git
